@@ -54,12 +54,19 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
   *  [MDN-HTML](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 
 - Emmet
-
+  *  [Emmet-前端开发神器](https://segmentfault.com/a/1190000007812543)
+  *  [前端开发必备！Emmet使用手册](http://www.w3cplus.com/tools/emmet-cheat-sheet.html)
+  *  [Emmet:编写HTML+CSS必备的插件](http://caibaojian.com/emmet.html)
 
 ### 第二、三、四、五天
 
 - 基础CSS
+  * [菜鸟教程-CSS](http://www.runoob.com/css/css-tutorial.html)
+  * [w3school-CSS](http://www.w3school.com.cn/css/)
+  * [MDN-CSS](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
+  
 - CSS3部分特性
+
 - 响应式开发
 
 ### 第六、七天
