@@ -80,8 +80,19 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
 ### 工作室成员
 
 ### 第一、二、三天
-
 - HTML语义化
+  * header
+  - nav
+  * footer
+  - section
+  * main
+  * aside
+  * h1-h6
+  * article
+  * cite
+  * [一些常见html5语义化标签](http://blog.csdn.net/coco379/article/details/52938071)
+  - [小知识点](http://www.sail.name/CSS_Demo/%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9.html) 
+ 
 - 深入讲解CSS布局，
 - 一些传统的布局方式
 - flex布局
