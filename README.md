@@ -45,8 +45,14 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
 
 ### 第一天
 - 讲解字符编码
+  * [Unicode 和 UTF-8 有何区别？](https://www.zhihu.com/question/23374078)
+  * [「带 BOM 的 UTF-8」和「无 BOM 的 UTF-8」有什么区别](https://github.com/cumtflyingstudio/FE-Summer-Camp-2017/edit/master/README.md)
+
 - html
-- 搭建环境
+  *  [菜鸟教程-HTML](http://www.runoob.com/html/html-tutorial.html)
+  *  [w3school-HTML](http://www.w3school.com.cn/html/)
+  *  [MDN-HTML](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
+
 - Emmet
 
 
