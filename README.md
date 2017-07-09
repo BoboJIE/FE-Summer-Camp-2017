@@ -93,9 +93,29 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
   * [一些常见html5语义化标签](http://blog.csdn.net/coco379/article/details/52938071)
   - [小知识点](http://www.sail.name/CSS_Demo/%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9.html) 
  
-- 深入讲解CSS布局，
-- 一些传统的布局方式
+
+- 布局
+
 - flex布局
+  * 容器属性
+    - flex-direction
+    - flex-wrap
+    - flex-flow
+    - justify-content
+    - align-content  
+    - align-items
+  * 项目属性
+    - flex-grow
+    - flex-shrink
+    - flex-basis
+    - flex
+    - order
+    - align-self
+  
+  * 参考
+    
+    - [Flex基础](http://www.sail.name/2017/07/09/the-base-of-flex/)
+ 
 - 一些CSS技巧
 
 ### 第四、五天
