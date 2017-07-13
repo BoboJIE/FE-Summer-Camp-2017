@@ -48,7 +48,7 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
   * [Unicode 和 UTF-8 有何区别？](https://www.zhihu.com/question/23374078)
   * [「带 BOM 的 UTF-8」和「无 BOM 的 UTF-8」有什么区别](https://github.com/cumtflyingstudio/FE-Summer-Camp-2017/edit/master/README.md)
 
-- html
+- HTML
     * 概念
     * h1-h6
     * p
@@ -76,13 +76,21 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
 
 ### 第二、三、四、五天
 
-- 基础CSS
+- CSS(Cascading Style Sheets)
   * [菜鸟教程-CSS](http://www.runoob.com/css/css-tutorial.html)
   * [w3school-CSS](http://www.w3school.com.cn/css/)
   * [MDN-CSS](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
   
 - CSS3部分特性
-
+  * border-radius
+  * box-shadow
+  * border-image
+  * border-radius
+  * Linear Gradients
+  * Radial Gradients
+  * text-shadow
+  
+  
 - 响应式开发
 
 ### 第六、七天
