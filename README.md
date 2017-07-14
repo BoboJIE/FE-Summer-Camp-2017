@@ -48,7 +48,7 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
   * [Unicode 和 UTF-8 有何区别？](https://www.zhihu.com/question/23374078)
   * [「带 BOM 的 UTF-8」和「无 BOM 的 UTF-8」有什么区别](https://github.com/cumtflyingstudio/FE-Summer-Camp-2017/edit/master/README.md)
 
-- HTML
+- HTML(HyperText Markup Language)
     * 概念
     * h1-h6
     * p
