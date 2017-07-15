@@ -113,8 +113,8 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
    * font-family
    * li
    * 链接
+   * text-align
    * text-indent
-   * text-align
    * [菜鸟教程-CSS](http://www.runoob.com/css/css-tutorial.html)
    * [w3school-CSS](http://www.w3school.com.cn/css/)
    * [MDN-CSS](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
