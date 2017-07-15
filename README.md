@@ -14,3 +14,12 @@ FE交流(答疑)群 491022835(群号)
 #### 工作室成员
 - 无
 
+
+第二天
+#### 非工作室成员
+- 看在[master分支](https://github.com/cumtflyingstudio/FE-Summer-Camp-2017/tree/master)第一天里面留下的参考链接
+- 练习CSS标签
+
+#### 工作室成员
+- 掌握垂直居中
+- 掌握清除浮动和BFC
