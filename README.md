@@ -77,17 +77,22 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
 ### 第二、三、四、五天
 
 - CSS(Cascading Style Sheets)
-   * 选择器
-     * id元素器
-     * class选取器
-     * 元素选择器
-     * 后代选择器
-     * 伪类选择器  
+   * 创建 
+       * 内联样式 
+       * 内部样式表 
+       * 外部样式表      
+ 
    * 盒子模型
       * margin
       * border
       * padding
       * content 
+   * 选择器
+       * id元素器
+       * class选取器
+       * 元素选择器
+       * 后代选择器
+       * 伪类选择器     
    * display
      * inherit 规定应该从父元素继承 display 属性的值。
      * none 此元素不会被显示。
@@ -100,10 +105,6 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
      * relative 生成相对定位的元素，相对于其正常位置进行定位。
      * fixed 生成绝对定位的元素，相对于浏览器窗口进行定位。
      * absolute 生成绝对定位的元素，相对于 static 定位以外的第一个父元素进行定位。
-   * 创建 
-     * 内联样式
-     * 内部样式表 
-     * 外部样式表  
      
    * color
    * width
@@ -113,13 +114,8 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
    * li
    * 链接
    * text-indent
-   * text-align
-   
-  
-   
-   
-      
-   * [菜鸟教程-CSS](http://www.runoob.com/css/css-tutorial.html)
+   * text-align
+   * [菜鸟教程-CSS](http://www.runoob.com/css/css-tutorial.html)
    * [w3school-CSS](http://www.w3school.com.cn/css/)
    * [MDN-CSS](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
   
