@@ -5,7 +5,7 @@ FE交流(答疑)群 491022835(群号)
 
 ## 任务
 
-第一天
+### 第一天
 #### 非工作室成员
 - 看在[master分支](https://github.com/cumtflyingstudio/FE-Summer-Camp-2017/tree/master)第一天里面留下的参考链接
 - 练习html标签
@@ -14,8 +14,9 @@ FE交流(答疑)群 491022835(群号)
 #### 工作室成员
 - 无
 
+**************************
 
-第二天
+### 第二天
 #### 非工作室成员
 - 看在[master分支](https://github.com/cumtflyingstudio/FE-Summer-Camp-2017/tree/master)第一天里面留下的参考链接
 - 练习CSS标签
