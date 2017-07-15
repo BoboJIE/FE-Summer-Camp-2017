@@ -160,7 +160,9 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
   * 清除浮动
        * 标签法
        * 伪元素:after
-       * 结合BFC灵活处理
+       * 设置overflow
+       * 父元素同步float
+       * 结合BFC灵活处理
 
    * BFC(Block formatting context)
      - 创建BFC
