@@ -127,7 +127,6 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
   * border-radius
   * box-shadow
   * border-image
-  * border-radius
   * Linear Gradients
   * Radial Gradients
   * text-shadow
