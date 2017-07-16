@@ -18,9 +18,23 @@ FE交流(答疑)群 491022835(群号)
 
 ### 第二天
 #### 非工作室成员
-- 看在[master分支](https://github.com/cumtflyingstudio/FE-Summer-Camp-2017/tree/master)第一天里面留下的参考链接
+- 看在[master分支](https://github.com/cumtflyingstudio/FE-Summer-Camp-2017/tree/master)第二天里面留下的参考链接
 - 练习CSS标签
 
 #### 工作室成员
 - 掌握垂直居中
 - 掌握清除浮动和BFC
+
+**************************
+
+### 第三天
+#### 非工作室成员
+- 看在[master分支](https://github.com/cumtflyingstudio/FE-Summer-Camp-2017/tree/master)第三天里面留下的参考链接
+- 练习CSS标签
+- 学习盒子模型
+- 练习display和position
+
+#### 工作室成员
+- 掌握圣杯布局
+- 掌握双飞翼布局
+- 学习flex,练习flex布局
