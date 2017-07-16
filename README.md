@@ -87,6 +87,10 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
       * border
       * padding
       * content 
+      * box-sizing
+         * content-box
+         * border-box
+         * inherit
    * 选择器
        * id元素器
        * class选取器
