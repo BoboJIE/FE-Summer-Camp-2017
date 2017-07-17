@@ -223,21 +223,36 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
      * perspective 透视
   
    * transition
-      * transition-property
-      * transition-duration
-      * transition-delay
-      * transition-timing-function
+      * transition-property  过渡的CSS属性
+      * transition-duration   过渡时间 
+      * transition-delay      延迟时间
+      * transition-timing-function  过渡动画的效果
+         * ease：缓解效果，等同于cubic-bezier(0.25,0.1,0.25,1.0)函数，既立方贝塞尔。
+         * linear：线性效果，等同于cubic-bezier(0.0,0.0,1.0,1.0)函数。
+         * ease-in：渐显效果，等同于cubic-bezier(0.42,0,1.0,1.0)函数。
+         * ease-out：渐隐效果，等同于cubic-bezier(0,0,0.58,1.0)函数。
+         * ease-in-out：渐显渐隐效果，等同于cubic-bezier(0.42,0,0.58,1.0)函数。
+         * cubic-bezier：特殊的立方贝塞尔曲线效果。
      
   * animation
-     * animation-name
-     * animation-duration
-     * animation-timing-function
-     
-        * ease：缓解效果，等同于cubic-bezier(0.25,0.1,0.25,1.0)函数，既立方贝塞尔。
-        * linear：线性效果，等同于cubic-bezier(0.0,0.0,1.0,1.0)函数。
-        * ease-in：渐显效果，等同于cubic-bezier(0.42,0,1.0,1.0)函数。
-        * ease-out：渐隐效果，等同于cubic-bezier(0,0,0.58,1.0)函数。
-
+      * animation-name  动画名称
+      * animation-duration  动画时间
+      * animation-iteration-count 对象动画循环播放的次数。
+      * animation-timing-function  播放方式
+         * ease：缓解效果，等同于cubic-bezier(0.25,0.1,0.25,1.0)函数，既立方贝塞尔。
+         * linear：线性效果，等同于cubic-bezier(0.0,0.0,1.0,1.0)函数。
+         * ease-in：渐显效果，等同于cubic-bezier(0.42,0,1.0,1.0)函数。
+         * ease-out：渐隐效果，等同于cubic-bezier(0,0,0.58,1.0)函数。
+         
+  * transform-style
+      * 3D呈现
+      * flat | preserve-3d
+      * flat：所有子元素在 2D 平面呈现
+      * preserve-3d：保留3D空间
+       
+   * [demo](http://www.sail.name/CSS_Demo/rotary-cube.html)
+   * [demo源码](https://github.com/iamsail/CSS_Demo/blob/master/rotary-cube.html)
+  
 - 结合CSS预处理器高效开发
 
 ### 第六、七天
