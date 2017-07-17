@@ -215,6 +215,29 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
 ### 第四、五天
 
 - 讲解CSS动画
+  * transform
+     * rotate 旋转元素
+     * scale 缩放元素
+     * translate 移动元素
+     * skew 倾斜元素
+     * perspective 透视
+  
+   * transition
+      * transition-property
+      * transition-duration
+      * transition-delay
+      * transition-timing-function
+     
+  * animation
+     * animation-name
+     * animation-duration
+     * animation-timing-function
+     
+        * ease：缓解效果，等同于cubic-bezier(0.25,0.1,0.25,1.0)函数，既立方贝塞尔。
+        * linear：线性效果，等同于cubic-bezier(0.0,0.0,1.0,1.0)函数。
+        * ease-in：渐显效果，等同于cubic-bezier(0.42,0,1.0,1.0)函数。
+        * ease-out：渐隐效果，等同于cubic-bezier(0,0,0.58,1.0)函数。
+
 - 结合CSS预处理器高效开发
 
 ### 第六、七天
