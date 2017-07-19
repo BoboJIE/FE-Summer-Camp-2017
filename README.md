@@ -271,7 +271,20 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
        * stylus xxx.styl
        * stylus --compress xxx.styl
        * stylus -w style.styl -o style.css
+       
   * stylus
+     * 选择器
+     * 变量 
+     * 插值
+     * 方法/函数
+     * 注释
+        * 单行注释,双斜杠,CSS中不输出
+        * 多行注释,它们只有在compress选项未启用的时候才会被输出
+        * 多行缓冲注释,Stylus压缩的时候这段无视直接输出
+     * 迭代 
+     * 关键帧(@keyframes)
+     * CSS字面量(CSS Literal)
+ 
   * [stylus-github](https://github.com/stylus/stylus)
   * [stylus中文版参考文档之综述](http://www.zhangxinxu.com/jq/stylus/) 
       
