@@ -133,6 +133,9 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
   
   
 - 响应式开发
+   * 媒体查询
+   * [demo](http://www.sail.name/CSS_Demo/smallDemo.html)
+   * [demo源码](https://github.com/iamsail/CSS_Demo/blob/master/smallDemo.html)
 
 ### 第六、七天
 
