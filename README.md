@@ -261,8 +261,11 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
    * [demo](http://www.sail.name/CSS_Demo/rotary-cube.html)
    * [demo源码](https://github.com/iamsail/CSS_Demo/blob/master/rotary-cube.html)
   
-- 结合CSS预处理器高效开发
-
+- 结合CSS预处理器(LESS/SASS/STYLUS)高效开发
+   * stylus
+   * [stylus-github](https://github.com/stylus/stylus)
+   * [stylus中文版参考文档之综述](http://www.zhangxinxu.com/jq/stylus/) 
+      
 ### 第六、七天
 
 - JS闭包
