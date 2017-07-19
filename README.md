@@ -137,7 +137,11 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
     * 媒体查询
     * [demo](http://www.sail.name/CSS_Demo/smallDemo.html)
     * [demo源码](https://github.com/iamsail/CSS_Demo/blob/master/smallDemo.html)
-
+    ```
+       <meta name="viewport"
+            content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    ```
+    
 ### 第六、七天
 
 - JavaScript基础知识
