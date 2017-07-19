@@ -267,10 +267,10 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
   * 安装
       * npm install stylus
       * npm install stylus -g
-  * 编译
-      * stylus xxx.styl
-      * stylus --compress xxx.styl
-      * stylus -w style.styl -o style.css
+   * 编译
+       * stylus xxx.styl
+       * stylus --compress xxx.styl
+       * stylus -w style.styl -o style.css
   * stylus
   * [stylus-github](https://github.com/stylus/stylus)
   * [stylus中文版参考文档之综述](http://www.zhangxinxu.com/jq/stylus/) 
