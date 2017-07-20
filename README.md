@@ -159,12 +159,16 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
         * JavaScript DOM编程艺术
     * BOM（Browser Object Document）即浏览器对象模型。
     * ECMAScript
-        * 变量定义
-        * 函数
-        * 循环
-        * 数组
-        * Math.floor()
-        * Math.random()
+         * 变量定义
+         * 函数
+         * 循环
+         * 数组
+         * Math.max() 
+         * Math.min() 
+         * Math.floor() 向下舍入
+         * Math.round() 标准舍入
+         * Math.random()  返回0和1之间的随机数，不包括0，1
+         
      * 参考
          * [JavaScript 教程](http://www.w3school.com.cn/js/)
          * [DOM简介](https://www.runoob.com/js/js-htmldom.html)
