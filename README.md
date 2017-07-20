@@ -165,9 +165,10 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
          * 数组
          * Math.max() 
          * Math.min() 
-         * Math.floor() 向下舍入
-         * Math.round() 标准舍入
-         * Math.random()  返回0和1之间的随机数，不包括0，1
+          * Math.cein() 向上舍入
+          * Math.floor() 向下舍入
+          * Math.round() 标准舍入
+          * Math.random()  返回0和1之间的随机数，不包括0，1
          
      * 参考
          * [JavaScript 教程](http://www.w3school.com.cn/js/)
