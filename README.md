@@ -145,10 +145,36 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
 ### 第六、七天
 
 - JavaScript基础知识
+    * DOM（Document Object Model）文档对象模型
+        * 事件
+        * document.getElementById(id)
+        * element.getElementsByTagName(name)
+        * document.createElement(name)
+        * parentNode.appendChild(node)
+        * element.innerHTML
+        * element.style.left
+        * element.setAttribute
+        * element.getAttribute
+        * element.addEventListener
+        * JavaScript DOM编程艺术
+    * BOM（Browser Object Document）即浏览器对象模型。
+    * ECMAScript
+        * 变量定义
+        * 函数
+        * 循环
+        * 数组
+        * Math.floor()
+        * Math.random()
+     * 参考
+         * [JavaScript 教程](http://www.w3school.com.cn/js/)
+         * [DOM简介](https://www.runoob.com/js/js-htmldom.html)
+         * [文档对象模型 (DOM)](https://developer.mozilla.org/zh-CN/docs/Web/API/Document_Object_Model)
 
 ### 第八、九、十天
 
-- 写个小游戏,部署到github,打包成APP
+- 实战小游戏
+- 部署到Github
+- 打包成APP
 
 ### 工作室成员
 
