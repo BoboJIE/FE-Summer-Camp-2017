@@ -150,14 +150,15 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
         * document.getElementById(id)
         * document.getElementsByTagName(name)
         * document.createElement(name)
-        * parentNode.appendChild(node)
-        * element.innerHTML
-        * element.innerText
-        * element.style.left
-        * element.setAttribute
-        * element.getAttribute
-        * element.addEventListener
-        * JavaScript DOM编程艺术
+         * Node.appendChild(node)
+         * Node.insertBefore(node)
+         * element.innerHTML
+         * element.innerText
+         * element.style.left
+         * element.setAttribute
+         * element.getAttribute
+         * element.addEventListener
+         * JavaScript DOM编程艺术
     * BOM（Browser Object Document）即浏览器对象模型。
     * ECMAScript
          * 变量定义
