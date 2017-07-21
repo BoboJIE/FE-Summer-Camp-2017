@@ -148,10 +148,11 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
     * DOM（Document Object Model）文档对象模型
         * 事件
         * document.getElementById(id)
-        * element.getElementsByTagName(name)
+        * document.getElementsByTagName(name)
         * document.createElement(name)
         * parentNode.appendChild(node)
         * element.innerHTML
+        * element.innerText
         * element.style.left
         * element.setAttribute
         * element.getAttribute
