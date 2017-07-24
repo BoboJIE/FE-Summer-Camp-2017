@@ -182,6 +182,9 @@ WEB-FE开发,相当长的时间都是在和浏览器打交道的
 - 实战小游戏
 - 部署到Github
 - 打包成APP
+- [游戏地址](http://www.sail.name/killCube/)
+- [游戏github地址](https://github.com/iamsail/killCube/tree/master)
+- [游戏v1.0](https://github.com/iamsail/killCube/tree/v1.0)
 
 ### 工作室成员
 
